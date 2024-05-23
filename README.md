@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1sha3h" alt="r1sha3h" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/r1sha3ja1n?t=mhhbb8k1ar1w8-tzoloj8q&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/r1sha3ja1n?t=mhhbb8k1ar1w8-tzoloj8q&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/r1sha3ja1n?t=mhhbb8k1ar1w8-tzoloj8q&s=09" /></a> </p>
 
 - 🔭 I’m currently working on [AI Voice assistant](https://github.com/R1shA3h/SeraAI)
 
