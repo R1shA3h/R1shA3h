@@ -4,17 +4,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1sha3h" alt="r1sha3h" /></a> </p>
 
 
-- 🔭 I’m currently working on [AI Voice assistant](https://github.com/R1shA3h/SeraAI)
+- 🔭 I’m currently working on AI Storyteller
 
-- 👯 I’m looking to collaborate on **Full stack web development projects**
+- 👯 I’m looking to collaborate on **Full stack web development & GenAI projects**
 
 - 🤝 I’m looking for help with **an internship opportunity**
 
-- 👨‍💻 All of my projects are available at [portfolio-eight-beta-40.vercel.app](portfolio-eight-beta-40.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rishabh-portfolio-007.netlify.app/)
 
-- 📫 How to reach me **r1sha3hjain@gmail.com**
+- 📫 How to reach me **jain.rishabh260303@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HrOyAE8MIhVvWPYhh83kHx35CjmrXIXH/edit?usp=sharing&ouid=101473592456744279373&rtpof=true&sd=true](https://docs.google.com/document/d/1HrOyAE8MIhVvWPYhh83kHx35CjmrXIXH/edit?usp=sharing&ouid=101473592456744279373&rtpof=true&sd=true)
+- 📄 [Resume]([https://docs.google.com/document/d/1HrOyAE8MIhVvWPYhh83kHx35CjmrXIXH/edit?usp=sharing&ouid=101473592456744279373&rtpof=true&sd=true](https://drive.google.com/file/d/1F87gonE-nZ-VP6_tgsq2rVBJTpgJFQBf/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
