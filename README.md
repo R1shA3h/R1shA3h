@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jain.rishabh260303@gmail.com**
 
-- 📄 [Resume]([https://docs.google.com/document/d/1HrOyAE8MIhVvWPYhh83kHx35CjmrXIXH/edit?usp=sharing&ouid=101473592456744279373&rtpof=true&sd=true](https://drive.google.com/file/d/1F87gonE-nZ-VP6_tgsq2rVBJTpgJFQBf/view?usp=sharing))
+- 📄 [Resume](https://drive.google.com/file/d/1F87gonE-nZ-VP6_tgsq2rVBJTpgJFQBf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
